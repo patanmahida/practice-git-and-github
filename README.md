@@ -1,2 +1,3 @@
 # practice-git-and-github
-Author : patan mahida
+ These my first github repository 
+ Author : patan mahida
